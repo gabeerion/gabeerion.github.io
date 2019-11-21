@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walter E Riedell | Academic</title>
+    <link>/authors/walter-e-riedell/</link>
+      <atom:link href="/authors/walter-e-riedell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Walter E Riedell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Walter E Riedell</title>
+      <link>/authors/walter-e-riedell/</link>
+    </image>
+    
+    <item>
+      <title>Barley yellow dwarf virus effects on cereal plant growth and transpiration</title>
+      <link>/publication/erion-2012-barley/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/erion-2012-barley/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

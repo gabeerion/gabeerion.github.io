@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Novitsky | Academic</title>
+    <link>/authors/vladimir-novitsky/</link>
+      <atom:link href="/authors/vladimir-novitsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladimir Novitsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vladimir Novitsky</title>
+      <link>/authors/vladimir-novitsky/</link>
+    </image>
+    
+    <item>
+      <title>Viral genetic linkage analysis in the presence of missing data</title>
+      <link>/publication/liu-2015-viral/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2015-viral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
