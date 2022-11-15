@@ -1,0 +1,17 @@
+﻿Authors,Title,Publication,Volume,Number,Pages,Year,Publisher
+"Erion, Gabriel G; Riedell, Walter E; ",Barley yellow dwarf virus effects on cereal plant growth and transpiration,Crop science,52,6,2794-2799,2012,"The Crop Science Society of America, Inc."
+"Liu, Shelley H; Erion, Gabriel; Novitsky, Vladimir; Gruttola, Victor De; ",Viral genetic linkage analysis in the presence of missing data,PLoS One,10,8,e0135469,2015,"Public Library of Science San Francisco, CA USA"
+"Erion, Gabriel Gandhi; ",Addressing Missing Data in Viral Genetic Linkage Analysis Through Multiple Imputation and Subsampling-Based Likelihood Optimization,,,,,2015,
+"Erion, Gabriel; Chen, Hugh; Lundberg, Scott M; Lee, Su-In; ",Anesthesiologist-level forecasting of hypoxemia with only SpO2 data using deep learning,arXiv preprint arXiv:1712.00563,,,,2017,
+"Erion, Gabriel; Janizek, Joseph D; Sturmfels, Pascal; Lundberg, Scott M; Lee, Su-In; ",Learning explainable models using attribution priors,,,,,2019,
+"Janizek, Joseph D; Erion, Gabriel; DeGrave, Alex J; Lee, Su-In; ",An adversarial approach for the robust classification of pneumonia from chest radiographs,"Proceedings of the ACM Conference on Health, Inference, and Learning",,,69-79,2020,
+"Lundberg, Scott M; Erion, Gabriel; Chen, Hugh; DeGrave, Alex; Prutkin, Jordan M; Nair, Bala; Katz, Ronit; Himmelfarb, Jonathan; Bansal, Nisha; Lee, Su-In; ",From local explanations to global understanding with explainable AI for trees,Nature machine intelligence,2,1,56-67,2020,Nature Publishing Group
+"Lundberg, Scott M; Erion, Gabriel G; Lee, Su-In; ",Consistent Individualized Feature Attribution for Tree Ensembles.(2018),arXiv preprint arXiv:1802.03888,,,127,1802,
+"Erion, Gabriel; Janizek, Joseph D; Hudelson, Carly; Utarnachitt, Richard B; McCoy, Andrew M; Sayre, Michael R; White, Nathan J; Lee, Su-In; ",CoAI: Cost-aware artificial intelligence for health care,medRxiv,,,,2021,Cold Spring Harbor Laboratory Press
+"Erion, Gabriel; Janizek, Joseph D; Sturmfels, Pascal; Lundberg, Scott M; Lee, Su-In; ",Improving performance of deep learning models with axiomatic attribution priors and expected gradients,Nature machine intelligence,3,7,620-631,2021,Nature Publishing Group
+"Erion, Gabriel G; ",New AI Frameworks for Real-World Clinical Prediction,,,,,2021,University of Washington
+"Erion, Gabriel; Okeson, Alex; Pineda, Jose; ",CUTTING-EDGE ANESTHESIA: Visualizing patient vital signs during surgery,,,,,,
+"Chen, Hugh; Lundberg, Scott M; Erion, Gabriel; Kim, Jerry H; Lee, Su-In; ",Forecasting adverse surgical events using self-supervised transfer learning for physiological signals,NPJ Digital Medicine,4,1,1-13,2021,Nature Publishing Group
+"Chen, Hugh; Lundberg, Scott; Erion, Gabe; Lee, Su-In; ",Physiological Signal Embeddings (PHASE) via Interpretable Stacked Models,,,,,2018,
+"Chen, Hugh; Lundberg, Scott; Erion, Gabe; Kim, Jerry H; Lee, Su-In; ",Deep transfer learning for physiological signals,arXiv preprint arXiv:2002.04770,,,,2020,
+"Erion, Gabriel; Janizek, Joseph D; Hudelson, Carly; Utarnachitt, Richard B; McCoy, Andrew M; Sayre, Michael R; White, Nathan J; Lee, Su-In; ",A cost-aware framework for the development of AI models for healthcare applications,Nature Biomedical Engineering,,,1-15,2022,Nature Publishing Group
